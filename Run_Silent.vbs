@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run """" & CreateObject("Scripting.FileSystemObject").GetAbsolutePathName(".") & "\sync_custom_nodes.bat""", 0, False
